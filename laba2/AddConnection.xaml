@@ -1,0 +1,18 @@
+<Window x:Class="laba2.AddConnection"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:laba2"
+        mc:Ignorable="d"
+        Title="AddConnection" Height="450" Width="800">
+    <Grid>
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="10,10,0,0" Name="LoginHeading" Text="Add Patient to Doctor:" VerticalAlignment="Top" FontSize="17" FontStretch="ExtraCondensed"/>  
+        <TextBlock Name="DoctorLogin" Height="23" HorizontalAlignment="Left" Margin="32,120,0,0"  Text="Doctor Login" VerticalAlignment="Top" Width="67" />  
+        <TextBlock Name="PatientLogin" Height="23" HorizontalAlignment="Left" Margin="30,168,0,0"  Text="Patient Login" VerticalAlignment="Top" Width="77" />  
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="118,115,0,0" Name="doctorLogin" VerticalAlignment="Top" Width="247" />  
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="118,168,0,0" Name="patientLogin" VerticalAlignment="Top" Width="247" />  
+        <Button Content="Conect" Height="23" HorizontalAlignment="Left" Margin="118,211,0,0" Name="Conect" VerticalAlignment="Top" Width="104" Click="connectButton_Click" />  
+        <TextBlock Height="23" HorizontalAlignment="Left" x:Name ="errormessage" VerticalAlignment="Top" Width="247" Margin="118,253,0,0"  OpacityMask="Crimson" Foreground="#FFE5572C"  />  
+    </Grid>
+</Window>

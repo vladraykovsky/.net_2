@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43a2de63-9568-4969-a7db-788a8c7724eb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="531162648">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="config" value="1" />
+          <entry key="cs" value="6" />
+          <entry key="xaml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="6" />
+          <entry key="Config" value="1" />
+          <entry key="XAML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="781" />
+          <entry key="xaml" value="240" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="781" />
+          <entry key="XAML" value="240" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laba2/MainWindow.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="193" selection-start-line="9" selection-start-column="12" selection-end-line="15" selection-end-column="193" />
+              <folding>
+                <marker date="1543210324230" expanded="true" signature="0:1622" ph="&lt;&lt;Grid&gt;&#10;            &lt;TextBlock Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;10,10,0,0&quot; Name=&quot;LoginHeading&quot; Text=&quot;Login:&quot; VerticalAlignment=&quot;Top&quot; FontSize=&quot;17&quot; FontStretch=&quot;ExtraCondensed&quot;/&gt;  &#10;            &lt;TextBlock Name=&quot;login&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;66,120,0,0&quot;  Text=&quot;Login&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;67&quot; /&gt;  &#10;            &lt;TextBlock Name=&quot;password&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;58,168,0,0&quot;  Text=&quot;Password&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;77&quot; /&gt;  &#10;            &lt;TextBox Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,115,0,0&quot; Name=&quot;textBoxEmail&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; /&gt;  &#10;            &lt;PasswordBox Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,168,0,0&quot; Name=&quot;passwordBox1&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; /&gt;  &#10;            &lt;Button Content=&quot;Login&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,211,0,0&quot; Name=&quot;button1&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;104&quot; Click=&quot;startButton_Click&quot; /&gt;  &#10;            &lt;TextBlock Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; x:Name =&quot;errormessage&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; Margin=&quot;118,253,0,0&quot;  OpacityMask=&quot;Crimson&quot; Foreground=&quot;##FFE5572C&quot;  /&gt;  &#10;    &lt;/Grid&gt;.../&gt;" />
+                <marker date="1543210324230" expanded="true" signature="444:1612" ph="&lt;&lt;TextBlock Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;10,10,0,0&quot; Name=&quot;LoginHeading&quot; Text=&quot;Login:&quot; VerticalAlignment=&quot;Top&quot; FontSize=&quot;17&quot; FontStretch=&quot;ExtraCondensed&quot;/&gt; &lt;TextBlock Name=&quot;login&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;66,120,0,0&quot;  Text=&quot;Login&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;67&quot; /&gt; &lt;TextBlock Name=&quot;password&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;58,168,0,0&quot;  Text=&quot;Password&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;77&quot; /&gt; &lt;TextBox Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,115,0,0&quot; Name=&quot;textBoxEmail&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; /&gt; &lt;PasswordBox Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,168,0,0&quot; Name=&quot;passwordBox1&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; /&gt; &lt;Button Content=&quot;Login&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,211,0,0&quot; Name=&quot;button1&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;104&quot; Click=&quot;startButton_Click&quot; /&gt; &lt;TextBlock Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; x:Name =&quot;errormessage&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; Margin=&quot;118,253,0,0&quot;  OpacityMask=&quot;Crimson&quot; Foreground=&quot;##FFE5572C&quot;  /&gt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laba2/MainWindow.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="29" />
+              <folding>
+                <marker date="1543211783728" expanded="false" signature="6:152" ph="..." />
+                <marker date="1543211783728" expanded="true" signature="169:1726" ph="{...}" />
+                <marker date="1543211783728" expanded="true" signature="176:254" ph="/// Interaction logic for MainWindow.xaml ... " />
+                <marker date="1543211783728" expanded="true" signature="290:1724" ph="{...}" />
+                <marker date="1543211783728" expanded="true" signature="387:454" ph="{...}" />
+                <marker date="1543211783728" expanded="true" signature="492:816" ph="{...}" />
+                <marker date="1543211783728" expanded="true" signature="891:1230" ph="{...}" />
+                <marker date="1543211783728" expanded="true" signature="1310:1709" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laba2/UserDto.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <marker date="1543212429780" expanded="true" signature="15:418" ph="{...}" />
+                <marker date="1543212429780" expanded="true" signature="42:268" ph="{...}" />
+                <marker date="1543212429780" expanded="true" signature="300:411" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laba2/AddConnection.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="169" selection-start-line="14" selection-start-column="169" selection-end-line="14" selection-end-column="169" />
+              <folding>
+                <marker date="1543212102695" expanded="true" signature="0:1635" ph="&lt;&lt;Grid&gt;&#10;        &lt;TextBlock Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;10,10,0,0&quot; Name=&quot;LoginHeading&quot; Text=&quot;Add Patient to Doctor:&quot; VerticalAlignment=&quot;Top&quot; FontSize=&quot;17&quot; FontStretch=&quot;ExtraCondensed&quot;/&gt;  &#10;        &lt;TextBlock Name=&quot;DoctorLogin&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;32,120,0,0&quot;  Text=&quot;Doctor Login&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;67&quot; /&gt;  &#10;        &lt;TextBlock Name=&quot;PatientLogin&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;30,168,0,0&quot;  Text=&quot;Patient Login&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;77&quot; /&gt;  &#10;        &lt;TextBox Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,115,0,0&quot; Name=&quot;doctorLogin&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; /&gt;  &#10;        &lt;TextBox Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,168,0,0&quot; Name=&quot;patientLogin&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; /&gt;  &#10;        &lt;Button Content=&quot;Conect&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,211,0,0&quot; Name=&quot;Conect&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;104&quot; Click=&quot;connectButton_Click&quot; /&gt;  &#10;        &lt;TextBlock Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; x:Name =&quot;errormessage&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; Margin=&quot;118,253,0,0&quot;  OpacityMask=&quot;Crimson&quot; Foreground=&quot;##FFE5572C&quot;  /&gt;  &#10;    &lt;/Grid&gt;.../&gt;" />
+                <marker date="1543212102695" expanded="true" signature="450:1625" ph="&lt;&lt;TextBlock Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;10,10,0,0&quot; Name=&quot;LoginHeading&quot; Text=&quot;Add Patient to Doctor:&quot; VerticalAlignment=&quot;Top&quot; FontSize=&quot;17&quot; FontStretch=&quot;ExtraCondensed&quot;/&gt; &lt;TextBlock Name=&quot;DoctorLogin&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;32,120,0,0&quot;  Text=&quot;Doctor Login&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;67&quot; /&gt; &lt;TextBlock Name=&quot;PatientLogin&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;30,168,0,0&quot;  Text=&quot;Patient Login&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;77&quot; /&gt; &lt;TextBox Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,115,0,0&quot; Name=&quot;doctorLogin&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; /&gt; &lt;TextBox Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,168,0,0&quot; Name=&quot;patientLogin&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; /&gt; &lt;Button Content=&quot;Conect&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,211,0,0&quot; Name=&quot;Conect&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;104&quot; Click=&quot;connectButton_Click&quot; /&gt; &lt;TextBlock Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; x:Name =&quot;errormessage&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; Margin=&quot;118,253,0,0&quot;  OpacityMask=&quot;Crimson&quot; Foreground=&quot;##FFE5572C&quot;  /&gt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/laba2/AddConnection.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="37" column="57" selection-start-line="37" selection-start-column="57" selection-end-line="37" selection-end-column="57" />
+              <folding>
+                <marker date="1543220472300" expanded="true" signature="6:176" ph="..." />
+                <marker date="1543220472300" expanded="true" signature="193:1783" ph="{...}" />
+                <marker date="1543220472300" expanded="true" signature="243:1781" ph="{...}" />
+                <marker date="1543220472300" expanded="true" signature="382:469" ph="{...}" />
+                <marker date="1543220472300" expanded="true" signature="559:1396" ph="{...}" />
+                <marker date="1543220472300" expanded="true" signature="1201:1283" ph="{...}" />
+                <marker date="1543220472300" expanded="true" signature="1300:1386" ph="{...}" />
+                <marker date="1543220472300" expanded="true" signature="1451:1775" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laba2/LoginPassword.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+              <folding>
+                <marker date="1543208053838" expanded="true" signature="48:147" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laba2/packages.config">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laba2/App.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1543180841084" expanded="true" signature="22:93" ph="/// Interaction logic for App.xaml ... " />
+                <marker date="1543180841084" expanded="true" signature="122:134" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/laba2/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/laba2/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/laba2/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/laba2/UserDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/laba2/AddConnection.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/laba2/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/laba2/AddConnection.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/laba2/LoginPassword.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/laba2/LoginPassword.cs" />
+        <option value="$PROJECT_DIR$/laba2/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/laba2/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/laba2/AddConnection.xaml" />
+        <option value="$PROJECT_DIR$/laba2/UserDto.cs" />
+        <option value="$PROJECT_DIR$/laba2/AddConnection.xaml.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="laba2" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="laba2" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="laba2" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Laba1" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/laba2/bin/Debug/laba2.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/laba2/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/laba2/laba2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43a2de63-9568-4969-a7db-788a8c7724eb" name="Default Changelist" comment="" />
+      <created>1543180397550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543180397550</updated>
+      <workItem from="1543180408193" duration="1468000" />
+      <workItem from="1543207251536" duration="6159000" />
+      <workItem from="1543217607796" duration="3597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11224000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23903178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24262296" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3295082" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="XAML Preview" order="11" weight="0.595082" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.31967214" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/laba2/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="193" selection-start-line="9" selection-start-column="12" selection-end-line="15" selection-end-column="193" />
+          <folding>
+            <marker date="1543210324230" expanded="true" signature="0:1622" ph="&lt;&lt;Grid&gt;&#10;            &lt;TextBlock Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;10,10,0,0&quot; Name=&quot;LoginHeading&quot; Text=&quot;Login:&quot; VerticalAlignment=&quot;Top&quot; FontSize=&quot;17&quot; FontStretch=&quot;ExtraCondensed&quot;/&gt;  &#10;            &lt;TextBlock Name=&quot;login&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;66,120,0,0&quot;  Text=&quot;Login&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;67&quot; /&gt;  &#10;            &lt;TextBlock Name=&quot;password&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;58,168,0,0&quot;  Text=&quot;Password&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;77&quot; /&gt;  &#10;            &lt;TextBox Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,115,0,0&quot; Name=&quot;textBoxEmail&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; /&gt;  &#10;            &lt;PasswordBox Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,168,0,0&quot; Name=&quot;passwordBox1&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; /&gt;  &#10;            &lt;Button Content=&quot;Login&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,211,0,0&quot; Name=&quot;button1&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;104&quot; Click=&quot;startButton_Click&quot; /&gt;  &#10;            &lt;TextBlock Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; x:Name =&quot;errormessage&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; Margin=&quot;118,253,0,0&quot;  OpacityMask=&quot;Crimson&quot; Foreground=&quot;##FFE5572C&quot;  /&gt;  &#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1543210324230" expanded="true" signature="444:1612" ph="&lt;&lt;TextBlock Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;10,10,0,0&quot; Name=&quot;LoginHeading&quot; Text=&quot;Login:&quot; VerticalAlignment=&quot;Top&quot; FontSize=&quot;17&quot; FontStretch=&quot;ExtraCondensed&quot;/&gt; &lt;TextBlock Name=&quot;login&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;66,120,0,0&quot;  Text=&quot;Login&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;67&quot; /&gt; &lt;TextBlock Name=&quot;password&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;58,168,0,0&quot;  Text=&quot;Password&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;77&quot; /&gt; &lt;TextBox Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,115,0,0&quot; Name=&quot;textBoxEmail&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; /&gt; &lt;PasswordBox Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,168,0,0&quot; Name=&quot;passwordBox1&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; /&gt; &lt;Button Content=&quot;Login&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,211,0,0&quot; Name=&quot;button1&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;104&quot; Click=&quot;startButton_Click&quot; /&gt; &lt;TextBlock Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; x:Name =&quot;errormessage&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; Margin=&quot;118,253,0,0&quot;  OpacityMask=&quot;Crimson&quot; Foreground=&quot;##FFE5572C&quot;  /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laba2/LoginPassword.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <marker date="1543208053838" expanded="true" signature="48:147" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laba2/packages.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laba2/App.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1543180841084" expanded="true" signature="22:93" ph="/// Interaction logic for App.xaml ... " />
+            <marker date="1543180841084" expanded="true" signature="122:134" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laba2/UserDto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <marker date="1543212429780" expanded="true" signature="15:418" ph="{...}" />
+            <marker date="1543212429780" expanded="true" signature="42:268" ph="{...}" />
+            <marker date="1543212429780" expanded="true" signature="300:411" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laba2/AddConnection.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="169" selection-start-line="14" selection-start-column="169" selection-end-line="14" selection-end-column="169" />
+          <folding>
+            <marker date="1543212102695" expanded="true" signature="0:1635" ph="&lt;&lt;Grid&gt;&#10;        &lt;TextBlock Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;10,10,0,0&quot; Name=&quot;LoginHeading&quot; Text=&quot;Add Patient to Doctor:&quot; VerticalAlignment=&quot;Top&quot; FontSize=&quot;17&quot; FontStretch=&quot;ExtraCondensed&quot;/&gt;  &#10;        &lt;TextBlock Name=&quot;DoctorLogin&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;32,120,0,0&quot;  Text=&quot;Doctor Login&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;67&quot; /&gt;  &#10;        &lt;TextBlock Name=&quot;PatientLogin&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;30,168,0,0&quot;  Text=&quot;Patient Login&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;77&quot; /&gt;  &#10;        &lt;TextBox Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,115,0,0&quot; Name=&quot;doctorLogin&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; /&gt;  &#10;        &lt;TextBox Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,168,0,0&quot; Name=&quot;patientLogin&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; /&gt;  &#10;        &lt;Button Content=&quot;Conect&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,211,0,0&quot; Name=&quot;Conect&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;104&quot; Click=&quot;connectButton_Click&quot; /&gt;  &#10;        &lt;TextBlock Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; x:Name =&quot;errormessage&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; Margin=&quot;118,253,0,0&quot;  OpacityMask=&quot;Crimson&quot; Foreground=&quot;##FFE5572C&quot;  /&gt;  &#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1543212102695" expanded="true" signature="450:1625" ph="&lt;&lt;TextBlock Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;10,10,0,0&quot; Name=&quot;LoginHeading&quot; Text=&quot;Add Patient to Doctor:&quot; VerticalAlignment=&quot;Top&quot; FontSize=&quot;17&quot; FontStretch=&quot;ExtraCondensed&quot;/&gt; &lt;TextBlock Name=&quot;DoctorLogin&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;32,120,0,0&quot;  Text=&quot;Doctor Login&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;67&quot; /&gt; &lt;TextBlock Name=&quot;PatientLogin&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;30,168,0,0&quot;  Text=&quot;Patient Login&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;77&quot; /&gt; &lt;TextBox Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,115,0,0&quot; Name=&quot;doctorLogin&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; /&gt; &lt;TextBox Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,168,0,0&quot; Name=&quot;patientLogin&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; /&gt; &lt;Button Content=&quot;Conect&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Margin=&quot;118,211,0,0&quot; Name=&quot;Conect&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;104&quot; Click=&quot;connectButton_Click&quot; /&gt; &lt;TextBlock Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; x:Name =&quot;errormessage&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;247&quot; Margin=&quot;118,253,0,0&quot;  OpacityMask=&quot;Crimson&quot; Foreground=&quot;##FFE5572C&quot;  /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laba2/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="29" />
+          <folding>
+            <marker date="1543211783728" expanded="false" signature="6:152" ph="..." />
+            <marker date="1543211783728" expanded="true" signature="169:1726" ph="{...}" />
+            <marker date="1543211783728" expanded="true" signature="176:254" ph="/// Interaction logic for MainWindow.xaml ... " />
+            <marker date="1543211783728" expanded="true" signature="290:1724" ph="{...}" />
+            <marker date="1543211783728" expanded="true" signature="387:454" ph="{...}" />
+            <marker date="1543211783728" expanded="true" signature="492:816" ph="{...}" />
+            <marker date="1543211783728" expanded="true" signature="891:1230" ph="{...}" />
+            <marker date="1543211783728" expanded="true" signature="1310:1709" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laba2/AddConnection.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="37" column="57" selection-start-line="37" selection-start-column="57" selection-end-line="37" selection-end-column="57" />
+          <folding>
+            <marker date="1543220472300" expanded="true" signature="6:176" ph="..." />
+            <marker date="1543220472300" expanded="true" signature="193:1783" ph="{...}" />
+            <marker date="1543220472300" expanded="true" signature="243:1781" ph="{...}" />
+            <marker date="1543220472300" expanded="true" signature="382:469" ph="{...}" />
+            <marker date="1543220472300" expanded="true" signature="559:1396" ph="{...}" />
+            <marker date="1543220472300" expanded="true" signature="1201:1283" ph="{...}" />
+            <marker date="1543220472300" expanded="true" signature="1300:1386" ph="{...}" />
+            <marker date="1543220472300" expanded="true" signature="1451:1775" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
